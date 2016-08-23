@@ -1,6 +1,6 @@
-package lsieg.testclient;
+package com.lsieg.testclient;
 
-import lsieg.core.testcore.*;
+import com.lsieg.core.testcore.*;
 
 public class TestClient {
 	public static void main(String[] args)

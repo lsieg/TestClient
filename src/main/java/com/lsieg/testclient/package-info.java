@@ -5,4 +5,4 @@
  * @author lsieg
  *
  */
-package lsieg.testclientunittests;
+package com.lsieg.testclient;
